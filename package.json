@@ -1,0 +1,23 @@
+{
+  "name": "playplay",
+  "version": "1.0.0",
+  "description": "app music",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello, world\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lloma93/Playplay.git"
+  },
+  "author": "Palloma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lloma93/Playplay/issues"
+  },
+  "homepage": "https://github.com/Lloma93/Playplay#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "restify": "^7.3.0"
+  }
+}
